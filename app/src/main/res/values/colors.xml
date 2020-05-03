@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5733</color>
+    <color name="colorPrimaryDark">#BD7100</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorToolbar">#FFC107</color>
+    <color name="colorTab">#FF9800</color>
+    <color name="TabText">#E91E63</color>
+    <color name="primary_dark_color">#FF6733</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="border_shade">#39794902</color>
+    <!--
+    <color name="accent">#7A1EA1</color>
+    <color name="bg_remind">#FF5722</color>
+
+    <color name="category_numbers">#FD8E09</color>
+    <color name="category_family">#379237</color>
+    <color name="category_colors">#FFFFFF</color>
+    <color name="category_phrases">#16AFCA</color>
+    <color name="category_white">#FFF</color>-->
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SDA Assign3 2019 Artur Jolsvai</string>
+    <string-array name="ui_time_entries">
+        <item>"SELECT"</item>
+        <item>" 2 days"</item>
+        <item>" 3 days"</item>
+        <item>" 4 days"</item>
+        <item>" 5 days"</item>
+        <item>10 days</item>
+        <item>14 days</item>
+    </string-array>
+
+    <string name="images_desc">Flavors Images</string>
+    <string name="plc_version">version</string>
+    <string name="plc_flavor">flavor</string>
+    <string name="placeholder">Order T shirt</string>
+
+    <string name="customer_name">Name</string>
+    <string name="order_message_1">Please find my order attached</string>
+    <string name="order_message_collect">I will collect it in&#160;</string>
+    <string name="order_message_end">Regards</string>
+    <string name="notification_title">Notification!</string>
+    <string name="to_email">my-tshirt@sda.ie</string>
+    <string name="email_subject">Order Request </string>
+    <string name="border">border</string>
+
+    <string name="editCollect">Or collect in </string>
+    <string name="editDeliver">Enter Your Delivery Address</string>
+    <string name="editCustomer">Enter Your Name</string>
+    <string name="imageText">Take photo for T-Shirt</string>
+    <string name="sendButton">SEND ORDER</string>
+
+
+    <string name="textMain">WANT A UNIQUE T-SHIRT FOR YOUR STYLE?</string>
+    <string name="textSub">Choose your style - Make it unique with your print - Order it - And leave the rest with us</string>
+
+</resources>

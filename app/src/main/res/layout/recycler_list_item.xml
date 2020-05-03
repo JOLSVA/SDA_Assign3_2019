@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:id="@+id/listItemLayout">
+
+    <ImageView
+        android:id="@+id/imageItem"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/donut"
+        android:contentDescription="@string/images_desc" />
+
+    <TextView
+        android:id="@+id/flavorText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="18dp"
+        android:layout_toEndOf="@+id/imageItem"
+        android:text="@string/plc_flavor"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/flavorVers"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/flavorText"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="18dp"
+        android:layout_toEndOf="@+id/imageItem"
+        android:text="@string/plc_version"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/imageItem"
+        android:layout_marginTop="5dp"
+        android:background="@color/border_shade"
+        android:contentDescription="@string/border" />
+
+</RelativeLayout>
